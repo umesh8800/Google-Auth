@@ -1,0 +1,61 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* import React from 'react';
+import GoogleLogin from 'react-google-login';
+
+function GoogleLogin() {
+    const responseGoogle =(response)=>{
+        console.log(response)
+    }
+    return (
+        <div>
+            <h1>Login with google</h1>
+            <GoogleLogin
+    clientId="48441982706-24n18ghim2k46ep2fhmsae7jv5hsc666.apps.googleusercontent.com"
+    buttonText="Login"
+    onSuccess={responseGoogle}
+    onFailure={responseGoogle}
+    cookiePolicy={'single_host_origin'}
+  />
+            
+        </div>
+    )
+}
+
+export default GoogleLogin */
